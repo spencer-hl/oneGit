@@ -5,4 +5,4 @@ Git has a mutable index called stage.
 
 wewewe
 
-Git tracks changes of files.
+Git tdlafjlaacks changes of files.
